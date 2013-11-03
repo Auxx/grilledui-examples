@@ -1,0 +1,16 @@
+apply plugin: 'android'
+
+dependencies {
+    compile 'com.android.support:support-v4:+'
+    compile 'com.grilledmonkey:grilledui:0.2@aar'
+}
+
+android {
+    compileSdkVersion 19
+    buildToolsVersion "19.0.0"
+
+    defaultConfig {
+        minSdkVersion 11
+        targetSdkVersion 19
+    }
+}
