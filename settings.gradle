@@ -1,2 +1,1 @@
-include ':TabActivityExample', ':TabActivityFromXML'
-//include ':grilledui'
+include ':TabActivityExample', ':TabActivityFromXML', ':HybridSherlockActivityExample'
